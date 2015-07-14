@@ -1,2 +1,2 @@
-VERSION = (0, 2, 1)
+VERSION = ('isyncd', 0, 2, 1)
 __version__ = '.'.join(map(str, VERSION))
