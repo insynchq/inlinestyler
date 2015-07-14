@@ -29,6 +29,6 @@ setup(
     install_requires=[
         'cssutils',
         'lxml',
-        'requests>=1.0.0',
+        'requests<1.0',
     ]
 )
